@@ -1,5 +1,5 @@
 # Dictionary-App-with-PyDictionary-tkinter
-This is a simple dictionary Application using pyDictionary and tkinter.
+This is a simple dictionary Application using pyDictionary and tkinter. for Learning perpose. and below information I implement in this application
 
 ## What is pyDictionary ##
 
